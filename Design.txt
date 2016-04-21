@@ -1,0 +1,27 @@
+Design.txt
+
+
+Recording Lib
+
+
+
+Record
+
+RecordSettings
+
+				enum OutputVideoFile
+				enum ImageFormat
+				int bitrate - in Mbps (* 1000000)
+				string path
+
+				struct Resolution
+						ImageHeight
+						ImageWidth
+
+
+						http://www.aforgenet.com/framework/docs/html/4ee1742c-44d3-b250-d6aa-90cd2d606611.htm
+						http://stackoverflow.com/questions/362986/capture-the-screen-into-a-bitmap
+
+
+for wpf
+http://www.nuget.org/packages/Extended.Wpf.Toolkit

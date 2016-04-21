@@ -1,0 +1,19 @@
+GUI X
+Implement changeable codec
+Save Recording Settings to file
+Screenshot
+Select Resolution
+
+FPS viewer
+
+
+
+
+
+Improve:
+
+Do the MVVM approach on the WPF GUI + correct databinding
+Find a better video writing library which runs on newest .NET framework 
+Pause/Resume recording button
+
+Check if value is allowed in JSON,   eg if file value of interval is higher than allowed (max 100)
